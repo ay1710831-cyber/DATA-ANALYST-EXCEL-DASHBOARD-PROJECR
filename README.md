@@ -4,5 +4,6 @@ EXCEL & POWER BI DASHBOARD PROJECT
 <img width="911" height="502" alt="Screenshot 2026-03-10 133922" src="https://github.com/user-attachments/assets/ca8ada13-bb03-459a-ba14-b6c28048805c" />
 <img width="757" height="439" alt="Screenshot 2026-03-10 134106" src="https://github.com/user-attachments/assets/ae8eca81-5b53-4aee-8f98-49aa6d4bbbf2" />
 <img width="911" height="507" alt="Screenshot 2026-03-10 134439" src="https://github.com/user-attachments/assets/36edcd5b-ff04-4d85-a7dc-79bba69eb19f" />
+<img width="909" height="512" alt="Screenshot 2026-03-10 135521" src="https://github.com/user-attachments/assets/c363d864-6d44-4596-963f-d6e210da0f00" />
 
 
